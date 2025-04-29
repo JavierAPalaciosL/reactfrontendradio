@@ -1,5 +1,4 @@
 import './App.css'
-import Login from "./Views/Login.jsx";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import {useState} from "react";
 import WrapLogin from "./Views/WrapLogin.jsx";
